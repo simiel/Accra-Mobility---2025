@@ -1,0 +1,17 @@
+Attribute,Description
+trip_id,Unique identifier for the trip
+lcl_start_transporting_dt,Local date when the trip started
+lcl_start_transporting_dttm,Local date and time when the trip started
+lcl_order_finished_dttm,Local date and time when the trip ended
+transporting_time_fact_mnt,Actual travel time in minutes
+transporting_distance_fact_km,Actual travel distance in kilometers
+str_distance_km,Straight-line distance in kilometers
+origin_lat,Latitude of the starting point
+origin_lon,Longitude of the starting point
+destination_lat,Latitude of the destination point
+destination_lon,Longitude of the destination point
+lcl_date,Local date
+lcl_datetime,Local date and time
+precipitation_type,Type of precipitation
+prev_hour_precipitation_mm,Precipitation in millimeters in the past hour
+temperature_C,Temperature in degrees Celsius
